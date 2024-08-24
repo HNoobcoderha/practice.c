@@ -11,14 +11,8 @@ int main(){
   scanf("%d",&age);
   
   
-  if(age <= 45)
-  { 
-    printf("You are eligable!"); 
-  }
-  else if
-  {
-    printf("You are not eligavle!!");
-  }
+ 
+  
   
   
   
